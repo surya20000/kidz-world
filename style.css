@@ -1,0 +1,107 @@
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.home{
+    background-image: url("https://github.com/Kalvium-Program/kidz-world-html-boilerplate/blob/main/assets/kw-background.png?raw=true");
+   background-size: cover;
+   height: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   flex-direction: column;
+   padding-left: 50px;
+   color: white;
+}
+.title{
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 40px;
+}
+.book-section{
+    padding-left: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bold{
+    font-weight: 900;
+}
+.price{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 155px;
+    align-items: center;
+}
+.cart{
+    background-color: rgb(97,150,255);
+    display: flex;
+    align-items:center;
+    color: white;
+    height: fit-content;
+    padding: 5px;
+}
+.text-gray{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.no-gap{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.text-gray{
+    color: gray;
+}
+.game-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 90px;
+    padding-right: 60px;
+}
+.handmade-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 60px;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    margin-top:130px ;
+    padding-left:80px ;
+    padding-right:80px ;
+}
+.text-white{
+    color: white;
+}
+.bold1{
+    padding-left: 80px;
+    font-weight:bolder;
+    margin-top: 20px;
+}
+.car{
+    display: flex;
+    align-items: center;
+    padding-right: 40px;
+}
+.bold2{
+    padding-left: 90px;
+    font-weight:bolder;
+    margin-top: 20px;
+}
+.bold3{
+    padding-left: 94px;
+    font-weight:bolder;
+    margin-top: 80px;
+    margin-bottom: -20px;
+}
